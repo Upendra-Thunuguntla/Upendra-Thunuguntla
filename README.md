@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Upendra-Thunuguntla
-- 👀 I’m interested in Java, Python, SQL, Cloud Computing, AI & ML
-- 🌱 I’m currently learning Cloud Computing & Java
-- 📫 How to reach me @Muralid25 on Linkdein
+- 👀 Interested in Java, Python, SQL, Cloud Computing, AI & ML
+- 🌱 Currently learning Cloud Computing & Java
+- 📫 Reach me @Muralid25 on Linkdein
 
 
 <!---
