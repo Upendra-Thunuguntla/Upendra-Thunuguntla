@@ -1,9 +1,9 @@
 # 👋 Hi, I’m U V Muralidhar Thunuguntla
 
 ## 🚀 About Me
-- 💻 Java Developer and Enterprise Content Managment Developer.
+- 💻 Mulesfot & Java Developer with Expirence on Enterprise Content Managment.
 - 👀 Interested in Java, Python, SQL, Cloud Computing, AI & ML
-- ☁️ Currently learning Cloud Computing & Java
+- ☁️ Currently learning Mulesoft, Cloud Computing & Java
 
 ## 📫 Reach me at
 [![portfolio][4.1]][4]
